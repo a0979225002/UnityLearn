@@ -1,0 +1,12 @@
+
+Hcsharpsquid:S1905J"$Remove this unnecessary cast to 'T'.(ÎÔ®Á8ˆß·£°1
+Ucsharpsquid:S1144"1Remove the unused private method 'Serialization'.(É—â¦8ú›¤°1
+Vcsharpsquid:S1144-"2Remove the unused private method 'Serialization2'.(ÂÛ˜‡8ú›¤°1
+\csharpsquid:S1144H"3Remove the unused private method 'Deserialization'.(‚ìªüÿÿÿÿ8ú›¤°1
+Xcsharpsquid:S1144}"/Remove the unused private method 'ZstdNetTest'.(ª’ĞÌşÿÿÿÿ8ıµ£°1
+_csharpsquid:S1144"5Remove the unused private method 'SerializationTime'.(òĞÖşùÿÿÿÿ8æÒ¡ä±1
+\csharpsquid:S1144ª"7Remove the unused private method 'DeserializationTime'.(Ïş¨Ï8æÒ¡ä±1
+Ncsharpsquid:S1481Š")Remove the unused local variable 'data2'.(Â’á‚8ıµ£°1
+Gcsharpsquid:S125w"Remove this commented out code.(Ã³¤şÿÿÿÿ8ıµ£°1
+Ccsharpsquid:S125"Remove this commented out code.(Ë‘Ï8æÒ¡ä±1
+Hcsharpsquid:S125¬"Remove this commented out code.(Æà˜µùÿÿÿÿ8æÒ¡ä±1
