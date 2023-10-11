@@ -5,168 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="386a0b46-89b6-4e15-b873-3185e0fc7d67" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/CarGame/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/.github/workflows/qodana_code_quality.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/.idea/.idea.SnowBoarder/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/.idea/.idea.SnowBoarder/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/.idea/.idea.SnowBoarder/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/.idea/.idea.SnowBoarder/.idea/sonarlint/issuestore/0/b/0b8ca9bee80fbda72083fcb343bb555dd4e436c5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/.idea/.idea.SnowBoarder/.idea/sonarlint/issuestore/5/a/5a9947a82f6ef8b771647e7f637e28def7f8d289" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/.idea/.idea.SnowBoarder/.idea/sonarlint/issuestore/7/c/7caa2805d30663d03fa4bfca36eeb80ada8592ed" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/.idea/.idea.SnowBoarder/.idea/sonarlint/issuestore/7/d/7dc305b7d2ea96571bd15716b860af037b189872" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/.idea/.idea.SnowBoarder/.idea/sonarlint/issuestore/8/a/8a2457c10abc9e2504f3edddff1fc87801ff0428" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/.idea/.idea.SnowBoarder/.idea/sonarlint/issuestore/a/9/a902bfb8332bedeb1d7d5db0975a94bbc2a276b5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/.idea/.idea.SnowBoarder/.idea/sonarlint/issuestore/b/2/b2c5a8cadb8b77a1f970d3625f081212629ab419" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/.idea/.idea.SnowBoarder/.idea/sonarlint/issuestore/c/1/c165b22db3c35ba6f9628908a225816adab43a44" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/.idea/.idea.SnowBoarder/.idea/sonarlint/issuestore/c/9/c9c0551335773a1c8ef57712ae9c936300a41fa6" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/.idea/.idea.SnowBoarder/.idea/sonarlint/issuestore/d/0/d04bb4b1826b15a83835e6dbaba622324f4ac4e8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/.idea/.idea.SnowBoarder/.idea/sonarlint/issuestore/f/f/ff14362198a63baa85b3c5983bc3eab3323524e8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/.idea/.idea.SnowBoarder/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/.idea/.idea.SnowBoarder/.idea/sonarlint/securityhotspotstore/0/b/0b8ca9bee80fbda72083fcb343bb555dd4e436c5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/.idea/.idea.SnowBoarder/.idea/sonarlint/securityhotspotstore/5/a/5a9947a82f6ef8b771647e7f637e28def7f8d289" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/.idea/.idea.SnowBoarder/.idea/sonarlint/securityhotspotstore/7/c/7caa2805d30663d03fa4bfca36eeb80ada8592ed" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/.idea/.idea.SnowBoarder/.idea/sonarlint/securityhotspotstore/7/d/7dc305b7d2ea96571bd15716b860af037b189872" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/.idea/.idea.SnowBoarder/.idea/sonarlint/securityhotspotstore/8/a/8a2457c10abc9e2504f3edddff1fc87801ff0428" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/.idea/.idea.SnowBoarder/.idea/sonarlint/securityhotspotstore/a/9/a902bfb8332bedeb1d7d5db0975a94bbc2a276b5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/.idea/.idea.SnowBoarder/.idea/sonarlint/securityhotspotstore/b/2/b2c5a8cadb8b77a1f970d3625f081212629ab419" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/.idea/.idea.SnowBoarder/.idea/sonarlint/securityhotspotstore/c/1/c165b22db3c35ba6f9628908a225816adab43a44" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/.idea/.idea.SnowBoarder/.idea/sonarlint/securityhotspotstore/c/9/c9c0551335773a1c8ef57712ae9c936300a41fa6" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/.idea/.idea.SnowBoarder/.idea/sonarlint/securityhotspotstore/d/0/d04bb4b1826b15a83835e6dbaba622324f4ac4e8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/.idea/.idea.SnowBoarder/.idea/sonarlint/securityhotspotstore/f/f/ff14362198a63baa85b3c5983bc3eab3323524e8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/.idea/.idea.SnowBoarder/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/.idea/.idea.SnowBoarder/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/.idea/.idea.SnowBoarder/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/Assembly-CSharp-Editor.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/Assembly-CSharp.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/Assets/Lib/MessagePack.2.5.129.nupkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/Assets/NuGet.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/Assets/NuGet/Editor/NugetForUnity.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/Assets/NuGet/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/Assets/NuGet/README.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/Assets/NuGet/Resources/defaultIcon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/Assets/Packages/MessagePack.2.5.129/.signature.p7s" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/Assets/Packages/MessagePack.2.5.129/MessagePack.2.5.129.nupkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/Assets/Packages/MessagePack.2.5.129/lib/netstandard2.0/MessagePack.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/Assets/Packages/MessagePack.2.5.129/lib/netstandard2.0/MessagePack.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/Assets/Packages/MessagePack.Annotations.2.5.129/.signature.p7s" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/Assets/Packages/MessagePack.Annotations.2.5.129/MessagePack.Annotations.2.5.129.nupkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/Assets/Packages/MessagePack.Annotations.2.5.129/lib/netstandard2.0/MessagePack.Annotations.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/Assets/Packages/MessagePack.Annotations.2.5.129/lib/netstandard2.0/MessagePack.Annotations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/Assets/Packages/Microsoft.Bcl.AsyncInterfaces.6.0.0/.signature.p7s" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/Assets/Packages/Microsoft.Bcl.AsyncInterfaces.6.0.0/Icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/Assets/Packages/Microsoft.Bcl.AsyncInterfaces.6.0.0/LICENSE.TXT" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/Assets/Packages/Microsoft.Bcl.AsyncInterfaces.6.0.0/Microsoft.Bcl.AsyncInterfaces.6.0.0.nupkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/Assets/Packages/Microsoft.Bcl.AsyncInterfaces.6.0.0/THIRD-PARTY-NOTICES.TXT" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/Assets/Packages/Microsoft.Bcl.AsyncInterfaces.6.0.0/lib/netstandard2.1/Microsoft.Bcl.AsyncInterfaces.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/Assets/Packages/Microsoft.Bcl.AsyncInterfaces.6.0.0/lib/netstandard2.1/Microsoft.Bcl.AsyncInterfaces.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/Assets/Packages/Microsoft.Bcl.AsyncInterfaces.6.0.0/useSharedDesignerContext.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/Assets/Packages/Microsoft.NET.StringTools.17.6.3/.signature.p7s" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/Assets/Packages/Microsoft.NET.StringTools.17.6.3/MSBuild-NuGet-Icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/Assets/Packages/Microsoft.NET.StringTools.17.6.3/Microsoft.NET.StringTools.17.6.3.nupkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/Assets/Packages/Microsoft.NET.StringTools.17.6.3/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/Assets/Packages/Microsoft.NET.StringTools.17.6.3/lib/netstandard2.0/Microsoft.NET.StringTools.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/Assets/Packages/Microsoft.NET.StringTools.17.6.3/lib/netstandard2.0/Microsoft.NET.StringTools.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/Assets/Packages/Microsoft.NET.StringTools.17.6.3/notices/THIRDPARTYNOTICES.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/Assets/Packages/System.Collections.Immutable.6.0.0/.signature.p7s" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/Assets/Packages/System.Collections.Immutable.6.0.0/Icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/Assets/Packages/System.Collections.Immutable.6.0.0/LICENSE.TXT" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/Assets/Packages/System.Collections.Immutable.6.0.0/System.Collections.Immutable.6.0.0.nupkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/Assets/Packages/System.Collections.Immutable.6.0.0/THIRD-PARTY-NOTICES.TXT" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/Assets/Packages/System.Collections.Immutable.6.0.0/buildTransitive/netcoreapp2.0/System.Collections.Immutable.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/Assets/Packages/System.Collections.Immutable.6.0.0/buildTransitive/netcoreapp3.1/_._" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/Assets/Packages/System.Collections.Immutable.6.0.0/lib/netstandard2.0/System.Collections.Immutable.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/Assets/Packages/System.Collections.Immutable.6.0.0/lib/netstandard2.0/System.Collections.Immutable.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/Assets/Packages/System.Collections.Immutable.6.0.0/useSharedDesignerContext.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/Assets/Packages/System.Runtime.CompilerServices.Unsafe.6.0.0/.signature.p7s" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/Assets/Packages/System.Runtime.CompilerServices.Unsafe.6.0.0/Icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/Assets/Packages/System.Runtime.CompilerServices.Unsafe.6.0.0/LICENSE.TXT" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/Assets/Packages/System.Runtime.CompilerServices.Unsafe.6.0.0/System.Runtime.CompilerServices.Unsafe.6.0.0.nupkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/Assets/Packages/System.Runtime.CompilerServices.Unsafe.6.0.0/THIRD-PARTY-NOTICES.TXT" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/Assets/Packages/System.Runtime.CompilerServices.Unsafe.6.0.0/buildTransitive/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/Assets/Packages/System.Runtime.CompilerServices.Unsafe.6.0.0/buildTransitive/netcoreapp3.1/_._" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/Assets/Packages/System.Runtime.CompilerServices.Unsafe.6.0.0/lib/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/Assets/Packages/System.Runtime.CompilerServices.Unsafe.6.0.0/lib/netstandard2.0/System.Runtime.CompilerServices.Unsafe.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/Assets/Packages/System.Runtime.CompilerServices.Unsafe.6.0.0/useSharedDesignerContext.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/Assets/Packages/ZstdNet.1.4.5/.signature.p7s" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/Assets/Packages/ZstdNet.1.4.5/ZstdNet.1.4.5.nupkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/Assets/Packages/ZstdNet.1.4.5/lib/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/Assets/Packages/ZstdNet.1.4.5/lib/netstandard2.1/ZstdNet.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/Assets/Resource/Sprites/BShapeProfile.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/Assets/Resource/Sprites/Boarder_Bottom.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/Assets/Resource/Sprites/Boarder_Top.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/Assets/Resource/Sprites/Snow-Rock-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/Assets/Resource/Sprites/Snow-Rock.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/Assets/Resource/Sprites/Snow-Tree-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/Assets/Resource/Sprites/Snow-Tree-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/Assets/Resource/Sprites/Snow-tile-low-res.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/Assets/Resource/Sprites/Sprite_Cloud_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/Assets/Resource/Sprites/Sprite_Cloud_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/Assets/Resource/Sprites/Sprite_Cloud_6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/Assets/Resource/Sprites/blue-fill.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/Assets/Script/Controller/AthleteController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/Assets/Script/Controller/CrashDetector.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/Assets/Script/Controller/FinishLineController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/Assets/Script/Global/Utils.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/Assets/Script/Test/JsonPackTest.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/Assets/Script/Test/MessagePackModel1.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/Assets/Script/Test/MessagePackModel2.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/Assets/Script/Test/MessagePackModel3.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/Assets/Script/Test/MessagePackTest.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/Assets/Script/Test/NetPacketCenter.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/Assets/Shader/Test.shader" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/Assets/packages.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/Packages/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/Packages/packages-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/ProjectSettings/AudioManager.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/ProjectSettings/ClusterInputManager.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/ProjectSettings/DynamicsManager.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/ProjectSettings/EditorSettings.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/ProjectSettings/InputManager.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/ProjectSettings/MemorySettings.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/ProjectSettings/NavMeshAreas.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/ProjectSettings/NetworkManager.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/ProjectSettings/PackageManagerSettings.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/ProjectSettings/Physics2DSettings.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/ProjectSettings/PresetManager.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/ProjectSettings/ProjectSettings.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/ProjectSettings/ProjectVersion.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/ProjectSettings/QualitySettings.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/ProjectSettings/SceneTemplateSettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/ProjectSettings/TagManager.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/ProjectSettings/TimeManager.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/ProjectSettings/TimelineSettings.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/ProjectSettings/UnityConnectSettings.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/ProjectSettings/VFXManager.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/ProjectSettings/VersionControlSettings.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/ProjectSettings/XRSettings.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/SnowBoarder.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/UserSettings/EditorUserSettings.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/UserSettings/Layouts/default-2022.dwlt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/UserSettings/Search.index" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/UserSettings/Search.settings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/obj/Debug/.NETFramework,Version=v4.7.1.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/obj/Debug/Assembly-CSharp-Editor.csproj.AssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/obj/Debug/Assembly-CSharp-Editor.csproj.CopyComplete" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/obj/Debug/Assembly-CSharp-Editor.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/obj/Debug/Assembly-CSharp-Editor.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/obj/Debug/Assembly-CSharp-Editor.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/obj/Debug/Assembly-CSharp-Editor.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/obj/Debug/Assembly-CSharp.csproj.AssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/obj/Debug/Assembly-CSharp.csproj.CopyComplete" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/obj/Debug/Assembly-CSharp.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/obj/Debug/Assembly-CSharp.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/obj/Debug/Assembly-CSharp.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowBoarder/qodana.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/qodana.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SideProject.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SideProject.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarGame/.idea/.idea.CarGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CarGame/.idea/.idea.CarGame/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarGame/UserSettings/Layouts/default-2022.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/CarGame/UserSettings/Layouts/default-2022.dwlt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarGame/obj/Debug/Assembly-CSharp.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CarGame/obj/Debug/Assembly-CSharp.csproj.AssemblyReference.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -177,6 +16,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
     <option name="recentBranches">
       <RecentBranches>
         <option name="branchesForRepo">
@@ -201,8 +41,12 @@
       </RecentBranches>
     </option>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+    <option name="selectedTabId" value="SWEA" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
@@ -217,13 +61,14 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "settings.qodana",
+    "settings.editor.selected.configurable": "CodeInspectionSettingsId",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -248,15 +93,39 @@
       <option name="presentableId" value="Default" />
       <updated>1695711616507</updated>
       <workItem from="1695711617999" duration="777000" />
-      <workItem from="1697010259100" duration="439000" />
+      <workItem from="1697010259100" duration="549000" />
+      <workItem from="1697011116546" duration="76000" />
     </task>
+    <task id="LOCAL-00001" summary="更新滑雪遊戲">
+      <option name="closed" value="true" />
+      <created>1697011002645</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1697011002645</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="更新滑雪遊戲" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新滑雪遊戲" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
