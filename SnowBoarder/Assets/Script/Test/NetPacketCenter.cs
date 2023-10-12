@@ -1,5 +1,4 @@
-﻿using System;
-using SnowBoarder;
+﻿using SnowBoarder;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -17,7 +16,6 @@ namespace Script.Center
         }
 
         /// <summary>
-        ///
         /// </summary>
         private void MessageDateTest()
         {
@@ -26,7 +24,6 @@ namespace Script.Center
         }
 
         /// <summary>
-        ///
         /// </summary>
         private void JsonDateTest()
         {

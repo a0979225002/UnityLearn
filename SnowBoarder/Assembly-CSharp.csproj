@@ -46,73 +46,160 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Script\Test\JsonPackTest.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextEventHandler.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexShakeA.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_ExampleScript_01.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMPro_InstructionOverlay.cs" />
      <Compile Include="Assets\Script\Test\MessagePackModel2.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexShakeB.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\DropdownSample.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexColorCycler.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\EnvMapAnimator.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextSelector_A.cs" />
+     <Compile Include="Assets\Script\Controller\GroundController.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01_UGUI.cs" />
+     <Compile Include="Assets\Script\Controller\HeadDetectorController.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\SimpleScript.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark04.cs" />
      <Compile Include="Assets\Script\Global\Utils.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ChatController.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ObjectSpin.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_PhoneNumberValidator.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexJitter.cs" />
      <Compile Include="Assets\Script\Test\NetPacketCenter.cs" />
+     <Compile Include="Assets\Script\Enum\ObjectTagType.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_DigitValidator.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_FrameRateCounter.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TextConsoleSimulator.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TeleType.cs" />
+     <Compile Include="Assets\Script\Base\BaseSingleton.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextEventCheck.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_UiFrameRateCounter.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TextMeshSpawner.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexZoom.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark02.cs" />
      <Compile Include="Assets\Script\Test\MessagePackModel1.cs" />
      <Compile Include="Assets\Script\Test\MessagePackTest.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextSelector_B.cs" />
+     <Compile Include="Assets\Script\Center\StartSceneCenter.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\SkewTextExample.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\WarpTextExample.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TextMeshProFloatingText.cs" />
      <Compile Include="Assets\Script\Controller\AthleteController.cs" />
      <Compile Include="Assets\Script\Controller\FinishLineController.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ShaderPropAnimator.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\CameraController.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark03.cs" />
      <Compile Include="Assets\Script\Test\MessagePackModel3.cs" />
-     <Compile Include="Assets\Script\Controller\CrashDetector.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextInfoDebugTool.cs" />
      <Folder Include="Assets" />
      <Folder Include="Assets\Packages\MessagePack.2.5.129" />
+     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
+     <Folder Include="Assets\TextMesh Pro\Examples &amp; Extras\Sprites" />
+     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
+     <Folder Include="Assets\TextMesh Pro\Sprites" />
      <Folder Include="Assets\Packages\System.Collections.Immutable.6.0.0\buildTransitive\netcoreapp2.0" />
      <None Include="Assets\Packages\MessagePack.2.5.129\lib\netstandard2.0\MessagePack.xml" />
+     <Folder Include="Assets\TextMesh Pro\Resources\Sprite Assets" />
      <Folder Include="Assets\Packages\Microsoft.Bcl.AsyncInterfaces.6.0.0\lib\netstandard2.1" />
+     <Folder Include="Assets\Resource\FBX" />
      <Folder Include="Assets\Packages\System.Runtime.CompilerServices.Unsafe.6.0.0\buildTransitive\netcoreapp3.1" />
      <Folder Include="Assets\Packages\System.Runtime.CompilerServices.Unsafe.6.0.0\buildTransitive" />
      <Folder Include="Assets\Packages\ZstdNet.1.4.5\lib\netstandard2.1" />
      <Folder Include="Assets\Packages\Microsoft.NET.StringTools.17.6.3\lib" />
      <Folder Include="Assets\Scenes" />
+     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
      <None Include="Assets\Packages\System.Collections.Immutable.6.0.0\lib\netstandard2.0\System.Collections.Immutable.xml" />
+     <Folder Include="Assets\Script\Enum" />
      <Folder Include="Assets\Packages\ZstdNet.1.4.5" />
+     <None Include="Assets\TextMesh Pro\Examples &amp; Extras\Fonts\Oswald-Bold - OFL.txt" />
      <Folder Include="Assets\Script\Global" />
      <None Include="Assets\Shader\Test.shader" />
      <Folder Include="Assets\Packages\MessagePack.2.5.129\lib" />
+     <None Include="Assets\TextMesh Pro\Examples &amp; Extras\Fonts\Anton OFL.txt" />
      <Folder Include="Assets\Script\Global\Utils" />
+     <Folder Include="Assets\TextMesh Pro\Resources\Fonts &amp; Materials" />
      <Folder Include="Assets\Packages\System.Collections.Immutable.6.0.0\lib\netstandard2.0" />
+     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc" />
      <Folder Include="Assets\Packages\MessagePack.2.5.129\lib\netstandard2.0" />
+     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader" />
+     <Folder Include="Assets\TextMesh Pro\Resources" />
      <Folder Include="Assets\Packages\System.Collections.Immutable.6.0.0\buildTransitive" />
      <Folder Include="Assets\Packages\MessagePack.Annotations.2.5.129\lib" />
      <None Include="Assets\Packages\MessagePack.Annotations.2.5.129\lib\netstandard2.0\MessagePack.Annotations.xml" />
      <Folder Include="Assets\Packages\Microsoft.NET.StringTools.17.6.3\lib\netstandard2.0" />
      <None Include="Assets\Packages\Microsoft.NET.StringTools.17.6.3\notices\THIRDPARTYNOTICES.txt" />
+     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader" />
+     <Folder Include="Assets\TextMesh Pro" />
      <Folder Include="Assets\Packages\Microsoft.NET.StringTools.17.6.3\notices" />
      <Folder Include="Assets\Script\Controller" />
      <Folder Include="Assets\Script\Utiles" />
      <Folder Include="Assets\Packages\Microsoft.Bcl.AsyncInterfaces.6.0.0" />
+     <Folder Include="Assets\TextMesh Pro\Examples &amp; Extras\Fonts" />
+     <Folder Include="Assets\Script\Base" />
+     <Folder Include="Assets\TextMesh Pro\Examples &amp; Extras\Resources" />
      <Folder Include="Assets\NuGet\Resources" />
      <Folder Include="Assets\Lib" />
      <Folder Include="Assets\Shader" />
+     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader" />
+     <None Include="Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt" />
      <Folder Include="Assets\Script" />
+     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
+     <Folder Include="Assets\TextMesh Pro\Examples &amp; Extras\Materials" />
+     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF.shader" />
      <Folder Include="Assets\Script\Listener" />
      <None Include="Assets\Packages\Microsoft.Bcl.AsyncInterfaces.6.0.0\useSharedDesignerContext.txt" />
+     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader" />
+     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
      <Folder Include="Assets\Script\Container" />
      <Folder Include="Assets\Packages\Microsoft.Bcl.AsyncInterfaces.6.0.0\lib" />
      <Folder Include="Assets\Packages\System.Collections.Immutable.6.0.0" />
+     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc" />
+     <Folder Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts" />
      <Folder Include="Assets\Packages\MessagePack.Annotations.2.5.129\lib\netstandard2.0" />
      <None Include="Assets\Packages\System.Runtime.CompilerServices.Unsafe.6.0.0\useSharedDesignerContext.txt" />
      <Folder Include="Assets\Script\Test" />
+     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc" />
      <None Include="Assets\Packages\System.Collections.Immutable.6.0.0\useSharedDesignerContext.txt" />
+     <Folder Include="Assets\TextMesh Pro\Shaders" />
      <Folder Include="Assets\Script\Center" />
+     <Folder Include="Assets\TextMesh Pro\Examples &amp; Extras\Resources\Sprite Assets" />
+     <Folder Include="Assets\TextMesh Pro\Resources\Style Sheets" />
+     <Folder Include="Assets\TextMesh Pro\Fonts" />
+     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
      <Folder Include="Assets\Packages\System.Runtime.CompilerServices.Unsafe.6.0.0" />
      <Folder Include="Assets\Packages\System.Runtime.CompilerServices.Unsafe.6.0.0\lib" />
+     <Folder Include="Assets\TextMesh Pro\Examples &amp; Extras\Prefabs" />
      <Folder Include="Assets\Packages\MessagePack.Annotations.2.5.129" />
      <Folder Include="Assets\Packages\Microsoft.NET.StringTools.17.6.3" />
+     <Folder Include="Assets\TextMesh Pro\Examples &amp; Extras\Scenes" />
      <Folder Include="Assets\NuGet" />
      <Folder Include="Assets\Packages\System.Collections.Immutable.6.0.0\lib" />
      <Folder Include="Assets\Packages" />
+     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader" />
      <None Include="Assets\Packages\Microsoft.NET.StringTools.17.6.3\lib\netstandard2.0\Microsoft.NET.StringTools.xml" />
      <Folder Include="Assets\Packages\System.Runtime.CompilerServices.Unsafe.6.0.0\buildTransitive\netcoreapp2.0" />
      <Folder Include="Assets\Resource\Sprites" />
      <None Include="Assets\Packages\System.Runtime.CompilerServices.Unsafe.6.0.0\lib\netstandard2.0\System.Runtime.CompilerServices.Unsafe.xml" />
+     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader" />
      <Folder Include="Assets\Resource" />
      <Folder Include="Assets\Packages\System.Collections.Immutable.6.0.0\buildTransitive\netcoreapp3.1" />
+     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader" />
      <None Include="Assets\Packages\Microsoft.Bcl.AsyncInterfaces.6.0.0\lib\netstandard2.1\Microsoft.Bcl.AsyncInterfaces.xml" />
+     <None Include="Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt" />
+     <Folder Include="Assets\TextMesh Pro\Examples &amp; Extras\Textures" />
+     <Folder Include="Assets\TextMesh Pro\Documentation" />
+     <Folder Include="Assets\TextMesh Pro\Examples &amp; Extras" />
+     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader" />
      <Folder Include="Assets\Script\Model" />
      <Folder Include="Assets\Packages\ZstdNet.1.4.5\lib" />
+     <Folder Include="Assets\TextMesh Pro\Examples &amp; Extras\Resources\Fonts &amp; Materials" />
+     <Folder Include="Assets\TextMesh Pro\Examples &amp; Extras\Resources\Color Gradient Presets" />
+     <None Include="Assets\TextMesh Pro\Sprites\EmojiOne.json" />
      <Folder Include="Assets\Packages\System.Runtime.CompilerServices.Unsafe.6.0.0\lib\netstandard2.0" />
+     <None Include="Assets\TextMesh Pro\Shaders\TMP_Sprite.shader" />
+     <None Include="Assets\TextMesh Pro\Examples &amp; Extras\Fonts\Bangers - OFL.txt" />
      <Reference Include="UnityEngine">
      <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.10f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
      </Reference>
@@ -365,26 +452,26 @@
      <Reference Include="Unity.Collections.LowLevel.ILSupport">
      <HintPath>C:\GAME_OBJECT\unity\SideProject\SnowBoarder\Library\PackageCache\com.unity.collections@1.2.4\Unity.Collections.LowLevel.ILSupport\Unity.Collections.LowLevel.ILSupport.dll</HintPath>
      </Reference>
-     <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
-     <HintPath>C:\GAME_OBJECT\unity\SideProject\SnowBoarder\Library\PackageCache\com.unity.visualscripting@1.9.0\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
-     </Reference>
-     <Reference Include="MessagePack.Annotations">
-     <HintPath>C:\GAME_OBJECT\unity\SideProject\SnowBoarder\Assets\Packages\MessagePack.Annotations.2.5.129\lib\netstandard2.0\MessagePack.Annotations.dll</HintPath>
-     </Reference>
-     <Reference Include="Microsoft.Bcl.AsyncInterfaces">
-     <HintPath>C:\GAME_OBJECT\unity\SideProject\SnowBoarder\Assets\Packages\Microsoft.Bcl.AsyncInterfaces.6.0.0\lib\netstandard2.1\Microsoft.Bcl.AsyncInterfaces.dll</HintPath>
-     </Reference>
-     <Reference Include="System.Runtime.CompilerServices.Unsafe">
-     <HintPath>C:\GAME_OBJECT\unity\SideProject\SnowBoarder\Assets\Packages\System.Runtime.CompilerServices.Unsafe.6.0.0\lib\netstandard2.0\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+     <Reference Include="MessagePack">
+     <HintPath>C:\GAME_OBJECT\unity\SideProject\SnowBoarder\Assets\Packages\MessagePack.2.5.129\lib\netstandard2.0\MessagePack.dll</HintPath>
      </Reference>
      <Reference Include="Microsoft.NET.StringTools">
      <HintPath>C:\GAME_OBJECT\unity\SideProject\SnowBoarder\Assets\Packages\Microsoft.NET.StringTools.17.6.3\lib\netstandard2.0\Microsoft.NET.StringTools.dll</HintPath>
      </Reference>
+     <Reference Include="System.Runtime.CompilerServices.Unsafe">
+     <HintPath>C:\GAME_OBJECT\unity\SideProject\SnowBoarder\Assets\Packages\System.Runtime.CompilerServices.Unsafe.6.0.0\lib\netstandard2.0\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+     </Reference>
+     <Reference Include="Microsoft.Bcl.AsyncInterfaces">
+     <HintPath>C:\GAME_OBJECT\unity\SideProject\SnowBoarder\Assets\Packages\Microsoft.Bcl.AsyncInterfaces.6.0.0\lib\netstandard2.1\Microsoft.Bcl.AsyncInterfaces.dll</HintPath>
+     </Reference>
      <Reference Include="System.Collections.Immutable">
      <HintPath>C:\GAME_OBJECT\unity\SideProject\SnowBoarder\Assets\Packages\System.Collections.Immutable.6.0.0\lib\netstandard2.0\System.Collections.Immutable.dll</HintPath>
      </Reference>
-     <Reference Include="MessagePack">
-     <HintPath>C:\GAME_OBJECT\unity\SideProject\SnowBoarder\Assets\Packages\MessagePack.2.5.129\lib\netstandard2.0\MessagePack.dll</HintPath>
+     <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
+     <HintPath>C:\GAME_OBJECT\unity\SideProject\SnowBoarder\Library\PackageCache\com.unity.visualscripting@1.9.1\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
+     </Reference>
+     <Reference Include="MessagePack.Annotations">
+     <HintPath>C:\GAME_OBJECT\unity\SideProject\SnowBoarder\Assets\Packages\MessagePack.Annotations.2.5.129\lib\netstandard2.0\MessagePack.Annotations.dll</HintPath>
      </Reference>
      <Reference Include="ZstdNet">
      <HintPath>C:\GAME_OBJECT\unity\SideProject\SnowBoarder\Assets\Packages\ZstdNet.1.4.5\lib\netstandard2.1\ZstdNet.dll</HintPath>

@@ -1,14 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using UnityEngine;
-
+﻿using UnityEngine;
 namespace SnowBoarder
 {
-
     /// <summary>
     /// 選手控制器,操控選手動作
     /// </summary>
-    public class AthleteController : MonoBehaviour
+    public class AthleteController : BaseSingleton<AthleteController>
     {
         /**
          * 選手剛體
@@ -20,13 +16,14 @@ namespace SnowBoarder
          */
         [SerializeField] private float torqueAmount = 1;
 
-        private void Awake()
-        {
 
+        private void Update()
+        {
+            KeyBordListener();
         }
 
         /// <summary>
-        ///
+        /// 監聽玩家左右鍵輸入,旋轉選手
         /// </summary>
         private void KeyBordListener()
         {
@@ -35,15 +32,6 @@ namespace SnowBoarder
 
             //施加扭力
             chara.AddTorque(torque * torqueAmount * -1);
-        }
-
-        private void OnCollisionEnter2D(Collision2D other)
-        {
-        }
-
-        private void Update()
-        {
-            KeyBordListener();
         }
     }
 }

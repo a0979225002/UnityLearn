@@ -3,48 +3,35 @@ using MessagePack;
 
 namespace SnowBoarder
 {
-    [MessagePackObject()]
+    [MessagePackObject]
     public class IWinLine
     {
-        [Key(0)]
-        public int LineIndex { get; set; }
+        [Key("lineIndex")] public int LineIndex { get; set; }
 
-        [Key(1)]
-        public int LineCount { get; set; }
+        [Key("lineCount")] public int LineCount { get; set; }
 
-        [Key(2)]
-        public float WinPoint { get; set; }
+        [Key("winPoint")] public float WinPoint { get; set; }
 
-        [Key(3)]
-        public int WinSymbolID { get; set; }
+        [Key("winSymbolID")] public int WinSymbolID { get; set; }
 
-        [Key(4)]
-        public int[] WinPosList { get; set; }
+        [Key("winPosList")] public int[] WinPosList { get; set; }
     }
 
-    [MessagePackObject()]
+    [MessagePackObject]
     public class MessagePackModel3
     {
-        [Key(0)]
-        public int GameType { get; set; }
+        [Key("gameType")] public int GameType { get; set; }
 
-        [Key(1)]
-        public int[] FinalSymbolList { get; set; }
+        [Key("finalSymbolList")] public int[] FinalSymbolList { get; set; }
 
-        [Key(2)]
-        public IWinLine[] WinLineList { get; set; }
+        [Key("winLines")] public IWinLine[] WinLines { get; set; }
 
-        [Key(3)]
-        public float TotalWinPoint { get; set; }
+        [Key("totalWinPoint")] public float TotalWinPoint { get; set; }
 
-        [Key(4)]
-        public Dictionary<string, string> StrMap { get; set; }
+        [Key("strMap")] public Dictionary<string, string> StrMap { get; set; }
 
-        [Key(5)]
-        public Dictionary<int, string> IntMap { get; set; }
-
-        [Key(6)]
-        public Dictionary<int, IWinLine> ObjMap { get; set; }
-
+        // [Key(5)] public Dictionary<int, string> IntMap { get; set; }
+        //
+        // [Key(6)] public Dictionary<int, IWinLine> ObjMap { get; set; }
     }
 }

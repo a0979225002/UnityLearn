@@ -1,7 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using MessagePack;
-using UnityEngine;
 
 namespace SnowBoarder
 {
@@ -31,10 +30,6 @@ namespace SnowBoarder
 
 
         // 公共成员中不序列化目标，标记IgnoreMemberAttribute
-        [IgnoreMember]
-        public string fullName
-        {
-            get { return FirstName + LastName; }
-        }
+        [IgnoreMember] public string fullName => FirstName + LastName;
     }
 }
