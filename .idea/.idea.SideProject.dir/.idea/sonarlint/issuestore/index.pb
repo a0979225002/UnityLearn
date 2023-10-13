@@ -202,8 +202,6 @@ c.idea/.idea.SideProject.dir/.idea/sonarlint/issuestore/8/b/8be1ffedfc98740c841d
 ì
 c.idea/.idea.SideProject.dir/.idea/sonarlint/issuestore/8/4/84ae279e414231ed701ecefb79754aad9e1d1c2b,3\f\3f2a7a5f20ee233f0f21969c83176d46f28f8304
 ì
-c.idea/.idea.SideProject.dir/.idea/sonarlint/issuestore/8/0/80b229647fa4dfca322a011921c513242fce07d4,0\e\0ee5cb13e1bcb395d18e640159c86ca30639649b
-ì
 c.idea/.idea.SideProject.dir/.idea/sonarlint/issuestore/8/a/8ab244214c33a91cf48ffd8a4ae8d82126f1e1d8,6\f\6f1101ee0d66727b003eed1e5d2767963424da69
 ì
 c.idea/.idea.SideProject.dir/.idea/sonarlint/issuestore/8/5/85c3a901608a6b9adf48d245fa84828b66304e51,2\e\2e00f478ed6a5aaae7f8246c6f59b07306cf3ef5
@@ -320,8 +318,6 @@ m.idea/.idea.SideProject.dir/.idea/sonarlint/securityhotspotstore/3/5/35968c2b2e
 ù
 m.idea/.idea.SideProject.dir/.idea/sonarlint/securityhotspotstore/7/5/75c0941ab3da997f45744764f674f2c122f4c626,4\2\423d4b6b88ab1be20dc15806f3e7446177b3ed83
 ù
-m.idea/.idea.SideProject.dir/.idea/sonarlint/securityhotspotstore/7/6/763df69b650ef9e7167f20265a2d1dca792d5b31,9\f\9fd394261e8697ee9f2ff234c5b0593c764c2023
-ù
 m.idea/.idea.SideProject.dir/.idea/sonarlint/securityhotspotstore/7/a/7a5cbbe1c5751646b368636f4fcfd4f5222d5a24,4\8\485eab0594ad7912fd1329b2bbecf69f09902013
 ù
 m.idea/.idea.SideProject.dir/.idea/sonarlint/securityhotspotstore/3/0/30f7cdf3ca2894e6844b5f4f3c02872f3f2a25d6,e\2\e2e1c34c007eb77474c1ccb354c2bd754e79d2c3
@@ -341,8 +337,6 @@ m.idea/.idea.SideProject.dir/.idea/sonarlint/securityhotspotstore/4/c/4cf5ba07e8
 m.idea/.idea.SideProject.dir/.idea/sonarlint/securityhotspotstore/2/b/2bef079d1c35dcee6f0cd9b39635dee875c23b1e,2\d\2d1a3af8792ee66dd8087cf8a1260be8d804fb0e
 ì
 c.idea/.idea.SideProject.dir/.idea/sonarlint/issuestore/3/7/37d910c99d6bfb9aab17b79640b2ed9570a71e15,c\6\c6a10f1510b5de05e50deb398a80df5ffa979dd3
-ù
-m.idea/.idea.SideProject.dir/.idea/sonarlint/securityhotspotstore/8/0/80b229647fa4dfca322a011921c513242fce07d4,3\9\393c32e0bef17cc5f983b0d4fbc9fbfcd4849cba
 ù
 m.idea/.idea.SideProject.dir/.idea/sonarlint/securityhotspotstore/8/a/8ab244214c33a91cf48ffd8a4ae8d82126f1e1d8,f\5\f59cedda9a1550b5cbb4cfc1a8412a04d3cab0bb
 ù
@@ -423,8 +417,6 @@ m.idea/.idea.SideProject.dir/.idea/sonarlint/securityhotspotstore/b/0/b0a376065e
 c.idea/.idea.SideProject.dir/.idea/sonarlint/issuestore/e/d/ed40afd71254529cf5c818f718245375321dbdb9,c\1\c1f7938f0eb4c0ec5e5dccdb57d6bca5fa19064c
 ù
 m.idea/.idea.SideProject.dir/.idea/sonarlint/securityhotspotstore/5/7/5709a44b3af0d052f66cdc19299c7a6f6c9d5a2b,5\c\5c9cde1960552b320b06052e3c5189328d3f9c33
-ù
-m.idea/.idea.SideProject.dir/.idea/sonarlint/securityhotspotstore/a/d/ade41c13c1a29531ffded2c71f16185957875d4a,e\2\e20e4629b7128f608994aac095ad02aa506b65bf
 ì
 c.idea/.idea.SideProject.dir/.idea/sonarlint/issuestore/f/5/f5faad6a8956f79590633b0e211b561d0f93bafd,4\f\4f93d1dce2b166bf2ab17d84c39a2786a8a4bc9b
 ù
@@ -527,8 +519,6 @@ m.idea/.idea.SideProject.dir/.idea/sonarlint/securityhotspotstore/e/4/e4025b0d60
 c.idea/.idea.SideProject.dir/.idea/sonarlint/issuestore/b/1/b1f224c353e1ccd29906c9df12fa06a2fa6bed76,0\b\0b36f8a7ddcf494c819d823afcb7b3863313e1e0
 ù
 m.idea/.idea.SideProject.dir/.idea/sonarlint/securityhotspotstore/e/5/e514fb5dc07776ff471cf39dc1e558bf1298ab13,4\a\4a3a7e4f26ec9b47967af7c2996ad49e8f6d763f
-ì
-c.idea/.idea.SideProject.dir/.idea/sonarlint/issuestore/a/d/ade41c13c1a29531ffded2c71f16185957875d4a,5\7\5727dbab466d1e1869ad82725f56cd9810077e33
 ù
 m.idea/.idea.SideProject.dir/.idea/sonarlint/securityhotspotstore/f/5/f5faad6a8956f79590633b0e211b561d0f93bafd,7\a\7a1729fdb88d184161c17242f7ed88fb3ba2d9c0
 ì
@@ -571,3 +561,5 @@ c.idea/.idea.SideProject.dir/.idea/sonarlint/issuestore/1/5/15c4c7d2b6154006d32d
 c.idea/.idea.SideProject.dir/.idea/sonarlint/issuestore/9/8/98da3df727cae362fa80fb901ab0200b574a124b,5\b\5b7bd05a0adbe6ef1ed77df53c2c97d32e04859a
 ì
 c.idea/.idea.SideProject.dir/.idea/sonarlint/issuestore/9/6/9662dd6d0ae060c931269c47436095434b70c497,d\9\d9a6e78de8f39c54cd192e24c93ba1ce5af24e6d
+R
+".github/workflows/code_quality.yml,c\6\c6ed56f2aa6147736ad29f3a4b117aa1f00b8499

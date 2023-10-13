@@ -5,23 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="386a0b46-89b6-4e15-b873-3185e0fc7d67" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SideProject.dir/.idea/sonarlint/issuestore/0/e/0ee5cb13e1bcb395d18e640159c86ca30639649b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SideProject.dir/.idea/sonarlint/issuestore/3/9/393c32e0bef17cc5f983b0d4fbc9fbfcd4849cba" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SideProject.dir/.idea/sonarlint/issuestore/5/7/5727dbab466d1e1869ad82725f56cd9810077e33" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SideProject.dir/.idea/sonarlint/issuestore/7/6/763df69b650ef9e7167f20265a2d1dca792d5b31" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SideProject.dir/.idea/sonarlint/issuestore/8/0/80b229647fa4dfca322a011921c513242fce07d4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SideProject.dir/.idea/sonarlint/issuestore/9/f/9fd394261e8697ee9f2ff234c5b0593c764c2023" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SideProject.dir/.idea/sonarlint/issuestore/a/d/ade41c13c1a29531ffded2c71f16185957875d4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SideProject.dir/.idea/sonarlint/issuestore/e/2/e20e4629b7128f608994aac095ad02aa506b65bf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SideProject.dir/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SideProject.dir/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SideProject.dir/.idea/sonarlint/securityhotspotstore/0/e/0ee5cb13e1bcb395d18e640159c86ca30639649b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SideProject.dir/.idea/sonarlint/securityhotspotstore/3/9/393c32e0bef17cc5f983b0d4fbc9fbfcd4849cba" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SideProject.dir/.idea/sonarlint/securityhotspotstore/5/7/5727dbab466d1e1869ad82725f56cd9810077e33" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SideProject.dir/.idea/sonarlint/securityhotspotstore/7/6/763df69b650ef9e7167f20265a2d1dca792d5b31" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SideProject.dir/.idea/sonarlint/securityhotspotstore/8/0/80b229647fa4dfca322a011921c513242fce07d4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SideProject.dir/.idea/sonarlint/securityhotspotstore/9/f/9fd394261e8697ee9f2ff234c5b0593c764c2023" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SideProject.dir/.idea/sonarlint/securityhotspotstore/a/d/ade41c13c1a29531ffded2c71f16185957875d4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SideProject.dir/.idea/sonarlint/securityhotspotstore/e/2/e20e4629b7128f608994aac095ad02aa506b65bf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SideProject.dir/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SideProject.dir/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SideProject.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SideProject.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SnowBoarder/.idea/.idea.SnowBoarder/.idea/sonarlint/issuestore/0/b/0b8ca9bee80fbda72083fcb343bb555dd4e436c5" beforeDir="false" afterPath="$PROJECT_DIR$/SnowBoarder/.idea/.idea.SnowBoarder/.idea/sonarlint/issuestore/0/b/0b8ca9bee80fbda72083fcb343bb555dd4e436c5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SnowBoarder/.idea/.idea.SnowBoarder/.idea/sonarlint/issuestore/5/a/5a9947a82f6ef8b771647e7f637e28def7f8d289" beforeDir="false" afterPath="$PROJECT_DIR$/SnowBoarder/.idea/.idea.SnowBoarder/.idea/sonarlint/issuestore/5/a/5a9947a82f6ef8b771647e7f637e28def7f8d289" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SnowBoarder/.idea/.idea.SnowBoarder/.idea/sonarlint/issuestore/7/d/7dc305b7d2ea96571bd15716b860af037b189872" beforeDir="false" afterPath="$PROJECT_DIR$/SnowBoarder/.idea/.idea.SnowBoarder/.idea/sonarlint/issuestore/7/d/7dc305b7d2ea96571bd15716b860af037b189872" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SnowBoarder/.idea/.idea.SnowBoarder/.idea/sonarlint/issuestore/a/9/a902bfb8332bedeb1d7d5db0975a94bbc2a276b5" beforeDir="false" afterPath="$PROJECT_DIR$/SnowBoarder/.idea/.idea.SnowBoarder/.idea/sonarlint/issuestore/a/9/a902bfb8332bedeb1d7d5db0975a94bbc2a276b5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SnowBoarder/.idea/.idea.SnowBoarder/.idea/sonarlint/issuestore/f/f/ff14362198a63baa85b3c5983bc3eab3323524e8" beforeDir="false" afterPath="$PROJECT_DIR$/SnowBoarder/.idea/.idea.SnowBoarder/.idea/sonarlint/issuestore/f/f/ff14362198a63baa85b3c5983bc3eab3323524e8" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SnowBoarder/.idea/.idea.SnowBoarder/.idea/sonarlint/issuestore/3/b/3bb1bcb5939efe480af4d5ae40ed4fba599f0bc7" beforeDir="false" afterPath="$PROJECT_DIR$/SnowBoarder/.idea/.idea.SnowBoarder/.idea/sonarlint/issuestore/3/b/3bb1bcb5939efe480af4d5ae40ed4fba599f0bc7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SnowBoarder/.idea/.idea.SnowBoarder/.idea/sonarlint/issuestore/5/5/55af5401def1719c3b39539bc578b4744de5ebdd" beforeDir="false" afterPath="$PROJECT_DIR$/SnowBoarder/.idea/.idea.SnowBoarder/.idea/sonarlint/issuestore/5/5/55af5401def1719c3b39539bc578b4744de5ebdd" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SnowBoarder/.idea/.idea.SnowBoarder/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SnowBoarder/.idea/.idea.SnowBoarder/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SnowBoarder/Assets/Script/Controller/AthleteController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SnowBoarder/Assets/Script/Controller/AthleteController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SnowBoarder/Assets/Script/Controller/CrashDetector.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SnowBoarder/Assets/Script/Controller/CrashDetector.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SnowBoarder/Assets/Script/Controller/FinishLineController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SnowBoarder/Assets/Script/Controller/FinishLineController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SnowBoarder/Assets/Script/Global/Utils.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SnowBoarder/Assets/Script/Global/Utils.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SnowBoarder/Assets/Script/Test/JsonPackTest.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SnowBoarder/Assets/Script/Test/JsonPackTest.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SnowBoarder/Assets/Script/Test/MessagePackModel1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SnowBoarder/Assets/Script/Test/MessagePackModel1.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SnowBoarder/Assets/Script/Test/MessagePackModel2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SnowBoarder/Assets/Script/Test/MessagePackModel2.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SnowBoarder/Assets/Script/Test/MessagePackModel3.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SnowBoarder/Assets/Script/Test/MessagePackModel3.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SnowBoarder/Assets/Script/Test/MessagePackTest.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SnowBoarder/Assets/Script/Test/MessagePackTest.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SnowBoarder/Assets/Script/Test/NetPacketCenter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SnowBoarder/Assets/Script/Test/NetPacketCenter.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +89,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "settings.qodana",
+    "settings.editor.selected.configurable": "com.obiscr.chatgpt.settings.ChatGPT",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -96,9 +101,9 @@
   }
 }]]></component>
   <component name="QodanaCloudProjectLink">
-    <option name="linkedProjectId" value="3reWJ" />
+    <option name="linkedProjectId" value="AaElv" />
     <option name="linkedProjectName" value="UnityLearn" />
-    <option name="organizationId" value="ALDOb" />
+    <option name="organizationId" value="AlOjx" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -112,6 +117,9 @@
       <workItem from="1697010259100" duration="549000" />
       <workItem from="1697011116546" duration="76000" />
       <workItem from="1697011405657" duration="656000" />
+      <workItem from="1697106922051" duration="72000" />
+      <workItem from="1697179944454" duration="2164000" />
+      <workItem from="1697186045911" duration="673000" />
     </task>
     <task id="LOCAL-00001" summary="更新滑雪遊戲">
       <option name="closed" value="true" />
@@ -129,7 +137,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697011428584</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="修正滑雪遊戲邏輯,優化代碼">
+      <option name="closed" value="true" />
+      <created>1697106970536</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1697106970536</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,7 +167,8 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="更新滑雪遊戲" />
     <MESSAGE value="提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="提交" />
+    <MESSAGE value="修正滑雪遊戲邏輯,優化代碼" />
+    <option name="LAST_COMMIT_MESSAGE" value="修正滑雪遊戲邏輯,優化代碼" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
