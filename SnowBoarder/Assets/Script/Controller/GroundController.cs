@@ -1,5 +1,4 @@
-﻿
-using UnityEngine;
+﻿using UnityEngine;
 
 namespace SnowBoarder
 {
@@ -7,14 +6,13 @@ namespace SnowBoarder
     {
         [SerializeField] private SurfaceEffector2D groundSurfaceEffector2D;
 
-
         /// <summary>
-        /// 靜止地板自動移動
+        ///     靜止地板自動移動
         /// </summary>
         public void StopGroundAction()
         {
-            groundSurfaceEffector2D.speed = 0;          //移動速度歸零
-            groundSurfaceEffector2D.forceScale = 0;     //移動力歸零
+            groundSurfaceEffector2D.speed = 0; //移動速度歸零
+            groundSurfaceEffector2D.forceScale = 0; //移動力歸零
         }
     }
 }

@@ -1,57 +1,49 @@
-﻿using System;
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-using UnityEngine.SceneManagement;
+﻿using UnityEngine;
 
 namespace SnowBoarder
 {
     /// <summary>
-    /// 結束遊戲控制器判定
+    ///     結束遊戲控制器判定
     /// </summary>
     public class FinishLineController : MonoBehaviour
     {
-        /// <summary>
-        /// 生命週期只能一次
-        /// </summary>
-        private bool _isOnece;
+        /**
+         * 結束的粒子特效
+         */
+        [SerializeField] private ParticleSystem finishParticle;
 
-        private void Awake()
-        {
-            _isOnece = true;
-        }
+        /**
+         * 遊戲通關字體
+         */
+        [SerializeField] private GameObject gameClearanceText;
 
         /// <summary>
-        /// 碰撞檢測,玩家碰撞到旗子結束遊戲
+        ///     碰撞檢測,玩家碰撞到旗子結束遊戲
         /// </summary>
         /// <param name="other"></param>
         private void OnTriggerEnter2D(Collider2D other)
         {
-            if (!_isOnece) return;
+            if (!GameCenter.Instance.ChangeGameState(GameType.Finish)) return;
             if (!other.CompareTag(ObjectTagType.Player.ToString())) return;
-            _isOnece = false;
+            FinishParticleListenerPosition(other);
+            gameClearanceText.SetActive(true);
             GroundController.Instance.StopGroundAction();
-            StartCoroutine(DelayLoadSceneAction());
+            StartCoroutine(GameCenter.Instance.DelayLoadSceneAction());
         }
 
         /// <summary>
-        /// 延遲重新加載場景
+        ///     修正當前玩家的Y軸位置補正當前粒子顯示位置
         /// </summary>
-        /// <returns></returns>
-        private IEnumerator DelayLoadSceneAction()
+        /// <param name="other"></param>
+        private void FinishParticleListenerPosition(Collider2D other)
         {
-            yield return new WaitForSeconds(2f);
-            ReLoadScene();
-            Debug.Log("遊戲結束 自動重新開始");
-        }
-
-
-        /// <summary>
-        /// 重新加載場景,重新開始遊戲
-        /// </summary>
-        public void ReLoadScene()
-        {
-            SceneManager.LoadScene("SnowBoarderGame");
+            var finishParticleTransform = finishParticle.transform; //結束粒子
+            var athletePosition = other.transform.position; //當前運動員位置
+            var finishParticlePosition = finishParticleTransform.position; //拿取當前粒子位置
+            var newPosition =
+                new Vector3(finishParticlePosition.x, athletePosition.y, finishParticlePosition.z); //新的位置,比對當前運動員高度
+            finishParticleTransform.position = newPosition; //更新位置
+            finishParticle.Play();
         }
     }
 }

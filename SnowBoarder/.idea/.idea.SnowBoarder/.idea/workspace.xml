@@ -5,28 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5315de78-30fc-4832-9e49-4ad379edefb6" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/.idea.SideProject.dir/.idea/sonarlint/issuestore/0/e/0ee5cb13e1bcb395d18e640159c86ca30639649b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/.idea.SideProject.dir/.idea/sonarlint/issuestore/3/9/393c32e0bef17cc5f983b0d4fbc9fbfcd4849cba" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/.idea.SideProject.dir/.idea/sonarlint/issuestore/5/7/5727dbab466d1e1869ad82725f56cd9810077e33" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/.idea.SideProject.dir/.idea/sonarlint/issuestore/7/6/763df69b650ef9e7167f20265a2d1dca792d5b31" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/.idea.SideProject.dir/.idea/sonarlint/issuestore/8/0/80b229647fa4dfca322a011921c513242fce07d4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/.idea.SideProject.dir/.idea/sonarlint/issuestore/9/f/9fd394261e8697ee9f2ff234c5b0593c764c2023" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/.idea.SideProject.dir/.idea/sonarlint/issuestore/a/d/ade41c13c1a29531ffded2c71f16185957875d4a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/.idea.SideProject.dir/.idea/sonarlint/issuestore/e/2/e20e4629b7128f608994aac095ad02aa506b65bf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/.idea.SideProject.dir/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/.idea.SideProject.dir/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/.idea.SideProject.dir/.idea/sonarlint/securityhotspotstore/0/e/0ee5cb13e1bcb395d18e640159c86ca30639649b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/.idea.SideProject.dir/.idea/sonarlint/securityhotspotstore/3/9/393c32e0bef17cc5f983b0d4fbc9fbfcd4849cba" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/.idea.SideProject.dir/.idea/sonarlint/securityhotspotstore/5/7/5727dbab466d1e1869ad82725f56cd9810077e33" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/.idea.SideProject.dir/.idea/sonarlint/securityhotspotstore/7/6/763df69b650ef9e7167f20265a2d1dca792d5b31" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/.idea.SideProject.dir/.idea/sonarlint/securityhotspotstore/8/0/80b229647fa4dfca322a011921c513242fce07d4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/.idea.SideProject.dir/.idea/sonarlint/securityhotspotstore/9/f/9fd394261e8697ee9f2ff234c5b0593c764c2023" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/.idea.SideProject.dir/.idea/sonarlint/securityhotspotstore/a/d/ade41c13c1a29531ffded2c71f16185957875d4a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/.idea.SideProject.dir/.idea/sonarlint/securityhotspotstore/e/2/e20e4629b7128f608994aac095ad02aa506b65bf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/.idea.SideProject.dir/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/.idea.SideProject.dir/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Script/Center/GameCenter.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image/FireShot Capture 001 - Complete C# Unity Game Developer 2D - Udemy - www.udemy.com.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image/螢幕擷取畫面 2023-10-11 190558.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/.idea.SideProject.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/.idea.SideProject.dir/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SnowBoarder/.idea/sonarlint/issuestore/3/b/3bb1bcb5939efe480af4d5ae40ed4fba599f0bc7" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SnowBoarder/.idea/sonarlint/issuestore/3/b/3bb1bcb5939efe480af4d5ae40ed4fba599f0bc7" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SnowBoarder/.idea/sonarlint/issuestore/5/5/55af5401def1719c3b39539bc578b4744de5ebdd" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SnowBoarder/.idea/sonarlint/issuestore/5/5/55af5401def1719c3b39539bc578b4744de5ebdd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SnowBoarder/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SnowBoarder/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SnowBoarder/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SnowBoarder/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SnowBoarder/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SnowBoarder/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Base/BaseSingleton.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Base/BaseSingleton.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Center/StartSceneCenter.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Controller/AthleteController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Controller/AthleteController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Controller/FinishLineController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Controller/FinishLineController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Controller/GroundController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Controller/GroundController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Controller/HeadDetectorController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Controller/HeadDetectorController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Enum/ObjectTagType.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Enum/ObjectTagType.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Test/MessagePackModel1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Test/MessagePackModel1.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Test/MessagePackModel2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Test/MessagePackModel2.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Test/MessagePackModel3.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Test/MessagePackModel3.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Test/MessagePackTest.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Test/MessagePackTest.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Test/NetPacketCenter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Test/NetPacketCenter.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,8 +37,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3b24cc7fa9794ed8ab04312c53e6dedd172c00/8a/246d5c89/Debug.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3b24cc7fa9794ed8ab04312c53e6dedd172c00/99/4911f495/Vector2.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3b24cc7fa9794ed8ab04312c53e6dedd172c00/9a/047d161a/LoadSceneParameters.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3b24cc7fa9794ed8ab04312c53e6dedd172c00/af/461dcb31/PlayerLoop.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3b24cc7fa9794ed8ab04312c53e6dedd172c00/ca/b1f3e6bc/GameObject.cs" root0="SKIP_HIGHLIGHTING" />
@@ -56,7 +61,7 @@
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
@@ -70,6 +75,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -93,23 +99,9 @@
     <option name="linkedProjectName" value="UnityLearn" />
     <option name="organizationId" value="AlOjx" />
   </component>
-  <component name="QodanaHighlightedReportService">
-    <option name="localRunNotPublishedPersistedInfo">
-      <LocalReportPersistedInfo>
-        <option name="path" value="C:\Users\XIAO_LIPIN\AppData\Local\Temp\qodana_output34858\qodana.sarif.json" />
-        <option name="reportGuid" value="0e2a2846-3a45-44c0-a780-faa595be0971" />
-        <option name="reportName" value="SnowBoarder/qodana/2023-10-13" />
-      </LocalReportPersistedInfo>
-    </option>
-  </component>
-  <component name="QodanaIsSelectedPersistenceService">
-    <option name="selectedOrLoading" value="true" />
-  </component>
   <component name="QodanaReportsService">
     <option name="descriptions">
       <ReportDescription localRun="true" path="C:\Users\XIAO_LIPIN\AppData\Local\Temp\qodana_output\qodana.sarif.json" reportGuid="466707e4-70bf-40fa-b6d4-1c7ca56f2500" reportId="SnowBoarder/qodana/2023-10-12" />
-      <ReportDescription localRun="true" path="C:\Users\XIAO_LIPIN\AppData\Local\Temp\qodana_output46313\qodana.sarif.json" reportGuid="8c1e2389-9fbc-44b4-bc14-1a736c196b90" reportId="SnowBoarder/qodana/2023-10-13" />
-      <ReportDescription localRun="true" path="C:\Users\XIAO_LIPIN\AppData\Local\Temp\qodana_output34858\qodana.sarif.json" reportGuid="0e2a2846-3a45-44c0-a780-faa595be0971" reportId="SnowBoarder/qodana/2023-10-13" />
     </option>
   </component>
   <component name="RunManager" selected="独立播放器.启动 Unity">
@@ -177,7 +169,19 @@
       <workItem from="1697104538737" duration="2009000" />
       <workItem from="1697177696944" duration="2026000" />
       <workItem from="1697180472783" duration="3665000" />
+      <workItem from="1697186861528" duration="9961000" />
+      <workItem from="1697430637582" duration="1518000" />
+      <workItem from="1697436928556" duration="5887000" />
     </task>
+    <task id="LOCAL-00001" summary="修正 CI設定">
+      <option name="closed" value="true" />
+      <created>1697187334395</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1697187334395</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -199,6 +203,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="修正 CI設定" />
+    <option name="LAST_COMMIT_MESSAGE" value="修正 CI設定" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

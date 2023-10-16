@@ -1,0 +1,13 @@
+
+›csharpsquid:S1186"yAdd a nested comment explaining why this method is empty, throw a 'NotSupportedException' or complete the implementation.(¥ÖžÉûÿÿÿÿ
+fcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(ÕÉ´ÿýÿÿÿÿ
+fcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(¿êŸ²úÿÿÿÿ
+acsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(¹ï§±
+„csharpsquid:S1450"bRemove the field 'floatingText_Script' and declare it as a local variable in the relevant methods.(¤ƒÕ—ýÿÿÿÿ
+;csharpsquid:S125"Remove this commented out code.(¼ƒßœ
+;csharpsquid:S125 "Remove this commented out code.(©‰€›
+@csharpsquid:S125#"Remove this commented out code.(Í’µˆúÿÿÿÿ
+@csharpsquid:S125)"Remove this commented out code.(óÜ•Ñøÿÿÿÿ
+@csharpsquid:S125/"Remove this commented out code.(ÄâÚßýÿÿÿÿ
+;csharpsquid:S1259"Remove this commented out code.(©‰€›
+@csharpsquid:S125<"Remove this commented out code.(Í’µˆúÿÿÿÿ

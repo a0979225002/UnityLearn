@@ -1,6 +1,4 @@
-﻿using UnityEngine;
-
-namespace SnowBoarder
+﻿namespace SnowBoarder
 {
     public enum ObjectTagType
     {
