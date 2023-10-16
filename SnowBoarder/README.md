@@ -1,2 +1,2 @@
 # 滑雪Game
-![avatar](/image/demo.png)
+![image](Image/demo.png)
